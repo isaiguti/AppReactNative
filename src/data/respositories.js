@@ -1,7 +1,7 @@
 export default [
     {
         id: 1,
-        fullName: "Cruz Azul",
+        fullName: "Cruz Azull",
         history: "En 1927 fue fundado uno de los equipos de futbol más grandes de México.",
         stadium: "Estadio Azteca",
         championships: 9,
